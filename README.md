@@ -165,68 +165,10 @@ El notebook principal utiliza **XGBoost** para realizar predicciones de precios 
 
 ---
 
-## 📚 Composición del Proyecto
+## 👥 Autores
 
-### Lenguajes de Programación
-
-```
-Jupyter Notebook: 97.3%  📊
-HTML:             2.7%   🌐
-```
-
----
-
-## 👥 Autor
-
-- **Adrian-Duque** - Estudiante de Ingeniería
-
----
-
-## 📝 Licencia
-
-Este proyecto está disponible bajo licencia abierta. Consulta los términos específicos en el repositorio.
-
----
-
-## 🔗 Enlaces Útiles
-
-- [Repositorio Original](https://github.com/JP-Aceves/ironclad-fase2)
-- [GitHub del Proyecto](https://github.com/Adrian-Duque/ironclad-fase2)
-- [Documentación de XGBoost](https://xgboost.readthedocs.io/)
-- [Documentación de Pandas](https://pandas.pydata.org/)
-
----
-
-## 💡 Próximos Pasos y Mejoras Futuras
-
-- [ ] Implementar modelos de Deep Learning (LSTM, Transformers)
-- [ ] Integración en tiempo real de precios
-- [ ] Dashboard interactivo con Plotly/Dash
-- [ ] API REST para consultas de predicciones
-- [ ] Automatización de predicciones periódicas
-- [ ] Mejorar la interfaz web con React/Vue
-- [ ] Agregar alertas de cambios de precio
-
----
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/nueva-caracteristica`)
-3. Commit tus cambios (`git commit -m 'Agregar nueva característica'`)
-4. Push a la rama (`git push origin feature/nueva-caracteristica`)
-5. Abre un Pull Request
-
----
-
-## 📞 Soporte
-
-Para preguntas o problemas, abre un issue en el repositorio.
-
----
-
-**Última actualización**: Mayo 2026  
+- **Adrian-Duque**
+- **Jose Pablo Aceves**
+- **Ignacio del Peso**
 **Fase**: 2 (Segunda Entrega)  
 **Estado**: ✅ En desarrollo activo
