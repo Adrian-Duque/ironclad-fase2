@@ -1,19 +1,22 @@
-# IronClad - Fase 2 🔗
+# IronClad Capital 🔗
 
-**Proyecto de Ingeniería - Segunda Entrega**
+**Proyecto de Ingeniería**
 
 > Análisis avanzado de criptomonedas, predicción de precios y presencia web integrada
 
 ---
 ## 🔗 Links
 
-- Documentación: https://adrian-duque.github.io/ironclad-fase2/
-- Presentación: https://adrian-duque.github.io/ironclad-fase2/ppt.html#1
+- Documentación Oficial: https://adrian-duque.github.io/ironclad-fase2/documentacion.html
+- Documentación Visual: https://adrian-duque.github.io/ironclad-fase2/
+- Presentación: https://adrian-duque.github.io/ironclad-fase2/ppt.html
+- Blog: https://substack.com/@ironcladcapital
+
 ---
 
 ## 📋 Descripción General
 
-IronClad Fase 2 es la segunda entrega del proyecto de ingeniería que combina **análisis de datos**, **machine learning** y **desarrollo web**. Este proyecto se enfoca en la predicción de precios de criptomonedas (Bitcoin, Dogecoin, Ethereum, etc.) utilizando modelos de aprendizaje automático y proporciona una presencia web moderna mediante un tema de WordPress personalizado.
+IronClad Capital es la entrega del proyecto de ingeniería que combina **análisis de datos**, **machine learning** y **desarrollo web**. Este proyecto se enfoca en la predicción de precios de criptomonedas (Bitcoin, Dogecoin, Ethereum, etc.) utilizando modelos de aprendizaje automático y proporciona una presencia web moderna mediante un tema de WordPress personalizado.
 
 ---
 
