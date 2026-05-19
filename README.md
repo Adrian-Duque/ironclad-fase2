@@ -7,7 +7,6 @@
 ---
 ## 🔗 Links
 
-- Documentación Oficial: https://adrian-duque.github.io/ironclad-fase2/documentacion.html
 - Documentación Visual: https://adrian-duque.github.io/ironclad-fase2/
 - Presentación: https://adrian-duque.github.io/ironclad-fase2/ppt.html
 - Blog: https://substack.com/@ironcladcapital
